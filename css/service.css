@@ -2,7 +2,7 @@
 .ser-services-hero {
     position: relative;
     padding: 120px 0;
-    background-image: url(/images/P3220027-1.jpg);
+    background-image: url(/images/ya/4.webp);
     overflow: hidden;
     object-fit: cover;
     background-size: cover;
@@ -61,13 +61,13 @@
 }
 
 .ser-form-control:focus {
-    border-color: #f25b34;
+    border-color: #38BDF8;
     box-shadow: none;
 }
 
 .ser-submit-btn {
     height: 54px;
-    background: #f25b34;
+    background: #008a6c;
     color: #ffffff;
     border-radius: 4px;
     border: none;
@@ -104,11 +104,11 @@
 
 .ser-popular-card:hover {
     transform: translateY(-7px);
-    border-color: #f2541f;
+    border-color: #38BDF8;
 }
 
 .ser-popular-icon {
-    color: #f2541f;
+    color: #38BDF8;
     font-size: 46px;
     line-height: 1;
     margin-bottom: 24px;
@@ -132,7 +132,7 @@
     display: inline-flex;
     align-items: center;
     gap: 8px;
-    color: #f2541f;
+    color: #38BDF8;
     text-decoration: none;
     font-size: 15px;
     font-weight: 500;
@@ -147,7 +147,7 @@
 .ser-transport-cta {
     position: relative;
     padding: 110px 0;
-    background: url("https://images.pexels.com/photos/2199293/pexels-photo-2199293.jpeg?auto=compress&cs=tinysrgb&w=1600") center center / cover no-repeat;
+    background: url("/images/ya/8.jpg") center center / cover no-repeat;
     overflow: hidden;
 }
 
@@ -186,7 +186,7 @@
 }
 
 .ser-phone-btn {
-    background: #f2541f;
+    background: #008a6c;
     color: #ffffff;
     border-radius: 4px;
     padding: 14px 28px;
@@ -211,7 +211,7 @@
 }
 
 .ser-quote-btn:hover {
-    background: #f2541f;
+    background: #008a6c;
     color: #ffffff;
 }
 
@@ -242,7 +242,7 @@
 }
 
 .ser-category-head i {
-    color: #f2541f;
+    color: #38BDF8;
     font-size: 42px;
 }
 
@@ -262,7 +262,7 @@
 }
 
 .ser-service-card:hover {
-    border-top-color: #f2541f;
+    border-top-color: #38BDF8;
     transform: translateY(-5px);
 }
 
@@ -299,7 +299,7 @@
 }
 
 .ser-service-card-head a:hover {
-    color: #f2541f;
+    color: #38BDF8;
 }
 
 .ser-service-card p {
@@ -348,7 +348,7 @@
 
 .ser-individual-btn {
     display: inline-block;
-    background: #f2541f;
+    background: #008a6c;
     color: #ffffff;
     text-decoration: none;
     padding: 15px 30px;

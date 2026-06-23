@@ -4,7 +4,7 @@
 }
 
 .abt-brand-content h5 {
-    color: #f2541f;
+    color: #38BDF8;
     font-size: 15px;
     font-weight: 500;
     text-transform: uppercase;
@@ -84,7 +84,7 @@
     align-items: center;
     justify-content: center;
     min-height: 54px;
-    background: #f2541f;
+    background: #008a6c;
     color: #ffffff;
     text-decoration: none;
     border-radius: 4px;
@@ -132,7 +132,7 @@
 
 .abt-brand-card:hover {
     transform: translateY(-6px);
-    border-color: #f2541f;
+    border-color: #38BDF8;
 }
 
 .abt-brand-logo {
@@ -166,7 +166,7 @@
 
 .abt-brand-link {
     display: inline-block;
-    color: #f2541f;
+    color: #38BDF8;
     font-size: 15px;
     font-weight: 600;
     text-decoration: none;
@@ -225,7 +225,7 @@
 }
 
 .gallery-box-card:hover .gallery-box-content h3 {
-    color: #f2541f;
+    color: #38BDF8;
 }
 /* Contact Section */
 .cnt-contact-section {
@@ -266,7 +266,7 @@
 }
 
 .cnt-label span {
-    color: #f2541f;
+    color: #38BDF8;
 }
 
 .cnt-input {
@@ -280,7 +280,7 @@
 }
 
 .cnt-input:focus {
-    border-color: #f2541f;
+    border-color: #38BDF8;
     box-shadow: none;
 }
 
@@ -318,7 +318,7 @@
 }
 
 .cnt-submit-btn {
-    background: #f2541f;
+    background: #008a6c;
     color: #ffffff;
     border: none;
     border-radius: 4px;
@@ -341,7 +341,7 @@
 }
 
 .cnt-info-icon {
-    color: #f2541f;
+    color: #38BDF8;
     font-size: 38px;
     margin-bottom: 14px;
 }
@@ -358,7 +358,7 @@
 }
 
 .cnt-info-box p a:hover {
-    color: #f2541f;
+    color: #38BDF8;
 }
 
 .cnt-separator {
@@ -375,7 +375,7 @@
 }
 
 .cnt-address-icon {
-    color: #f2541f;
+    color: #38BDF8;
     font-size: 34px;
     line-height: 1;
 }
@@ -421,7 +421,7 @@
 
 .cnt-driver-btn {
     display: inline-block;
-    background: #f2541f;
+    background: #008a6c;
     color: #ffffff;
     text-decoration: none;
     padding: 14px 24px;
@@ -459,7 +459,7 @@
 }
 
 .cnt-estimate-link {
-    color: #f2541f;
+    color: #38BDF8;
     font-size: 15px;
     font-weight: 600;
     text-decoration: none;
@@ -481,7 +481,7 @@
 .loc-office-card {
     background: #ffffff;
     border: 1px solid #eeeeee;
-    border-left: 5px solid #f2541f;
+    border-left: 5px solid #38BDF8;
     padding: 24px 26px;
     margin-bottom: 22px;
     box-shadow: 0 12px 30px rgba(0, 0, 0, 0.06);
@@ -566,7 +566,7 @@
 .pp-info-box {
     background: #ffffff;
     border: 1px solid #eeeeee;
-    border-top: 5px solid #f2541f;
+    border-top: 5px solid #38BDF8;
     padding: 30px 24px;
     box-shadow: 0 14px 35px rgba(0, 0, 0, 0.07);
     transition: all 0.3s ease;
@@ -579,7 +579,7 @@
 }
 
 .pp-summary-icon {
-    color: #f2541f;
+    color: #38BDF8;
     font-size: 42px;
     line-height: 1;
     margin-bottom: 18px;
@@ -641,7 +641,7 @@
 }
 
 .pp-policy-accordion .accordion-button:not(.collapsed) {
-    background: #f2541f;
+    background: #008a6c;
     color: #ffffff;
 }
 
@@ -700,7 +700,7 @@
 }
 
 .tc-content-block {
-    border-left: 5px solid #f2541f;
+    border-left: 5px solid #38BDF8;
     padding-left: 28px;
 }
 
@@ -741,7 +741,7 @@
 }
 
 .tc-accordion .accordion-button:not(.collapsed) {
-    background: #f2541f;
+    background: #008a6c;
     color: #ffffff;
 }
 
@@ -784,7 +784,7 @@
 }
 
 .tc-accordion a {
-    color: #f2541f;
+    color: #38BDF8;
     text-decoration: none;
     font-weight: 800;
 }
